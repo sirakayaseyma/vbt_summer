@@ -23,8 +23,11 @@ A new Flutter project.
 In the project, many widget structures were added and a scrolling widget image was created.
 
 The following plugins from [https://pub.dev/] have been added to the pubspec.yaml file.
+
 -card_swiper: ^1.0.4
+
 -simple_animations: ^4.0.1
+
 -supercharged: ^2.1.1
 
 
