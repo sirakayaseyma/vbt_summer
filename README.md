@@ -1,3 +1,3 @@
 
 
-VBT YAzılım A.Ş. kapsamında yapılan projeler 
+VBT Yazılım A.Ş. kapsamında yapılan projeler 
